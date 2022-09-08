@@ -1,5 +1,13 @@
 
 EDA OF TITANIC DATASET
+![image](https://user-images.githubusercontent.com/111189874/189105855-c5d9ec00-bccd-469e-8161-845c81a3796c.png)
+
+
+
+
+
+
+
 
 The Titanic or, in full, RMS Titanic was part of the one of the most iconic tragedies of all time. RMS Titanic was a British passenger ship that hit an iceberg while on its voyage from Southampton to New York City, and sank in the North Atlantic ocean, leaving hundreds of passengers to die in the aftermath of the deadly incident. Some of the passengers who survived till help arrived were rescued while many lost their lives helplessly waiting for help to arrive.
 
@@ -44,12 +52,20 @@ Family Size with 1 are labeled as Alone
 Family Size with 2, 3 and 4 are labeled as Small
 Family Size with 5 and 6 are labeled as Medium
 Family Size with 7, 8 and 11 are labeled as Large
+![image](https://user-images.githubusercontent.com/111189874/189106817-73b0ae7b-1e93-4457-be2e-d0fd8bcbdedf.png)
+
+![image](https://user-images.githubusercontent.com/111189874/189106913-e2d19dca-5516-4e08-bc3a-9b41b251f2cf.png)
+
 
 10. The categorical features (Pclass, Sex, Deck, Embarked, Title) are converted to one-hot encoded features with OneHotEncoder. Age and Fare features are not converted because they are ordinal unlike the previous ones.
+![image](https://user-images.githubusercontent.com/111189874/189106132-a4d55293-2b07-42ad-a7f6-415682165cd2.png)
+
 
 11. Transformation on dataframe: Droping some of the columns which many not contribute much to our machine learning model such as Name, Ticket, Cabin etc
 
 12. Data Visualization and Presentation :
 * Sex and Age using bar graph.
 * Sex vs age using violin plot.
+![image](https://user-images.githubusercontent.com/111189874/189106674-40a893f4-9a08-49d7-8325-3ea2160f0a55.png)
+
 * Survived vs Age vs Pclass using bar plot.
