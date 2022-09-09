@@ -53,7 +53,11 @@ Family Size with 1 are labeled as Alone
 Family Size with 2, 3 and 4 are labeled as Small
 Family Size with 5 and 6 are labeled as Medium
 Family Size with 7, 8 and 11 are labeled as Large
+
+
 ![image](https://user-images.githubusercontent.com/111189874/189106817-73b0ae7b-1e93-4457-be2e-d0fd8bcbdedf.png)
+
+
 
 ![image](https://user-images.githubusercontent.com/111189874/189106913-e2d19dca-5516-4e08-bc3a-9b41b251f2cf.png)
 
