@@ -71,6 +71,8 @@ Family Size with 7, 8 and 11 are labeled as Large
 12. Data Visualization and Presentation :
 * Sex and Age using bar graph.
 
+
+
 * Sex vs age using violin plot.
 ![image](https://user-images.githubusercontent.com/111189874/189106674-40a893f4-9a08-49d7-8325-3ea2160f0a55.png)
 
