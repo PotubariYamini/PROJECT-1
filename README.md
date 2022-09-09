@@ -1,6 +1,7 @@
 
 EDA OF TITANIC DATASET
-![image](https://user-images.githubusercontent.com/111189874/189105855-c5d9ec00-bccd-469e-8161-845c81a3796c.png)
+![image](https://user-images.githubusercontent.com/111189874/189354057-f3d4d656-3923-4660-809c-4031829563dd.png)
+
 
 
 
@@ -65,7 +66,10 @@ Family Size with 7, 8 and 11 are labeled as Large
 
 12. Data Visualization and Presentation :
 * Sex and Age using bar graph.
+
 * Sex vs age using violin plot.
 ![image](https://user-images.githubusercontent.com/111189874/189106674-40a893f4-9a08-49d7-8325-3ea2160f0a55.png)
+
+
 
 * Survived vs Age vs Pclass using bar plot.
