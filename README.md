@@ -13,7 +13,7 @@ EDA OF TITANIC DATASET
 The Titanic or, in full, RMS Titanic was part of the one of the most iconic tragedies of all time. RMS Titanic was a British passenger ship that hit an iceberg while on its voyage from Southampton to New York City, and sank in the North Atlantic ocean, leaving hundreds of passengers to die in the aftermath of the deadly incident. Some of the passengers who survived till help arrived were rescued while many lost their lives helplessly waiting for help to arrive.
 
 This project addresses the following Data Analysis topics:
-* Requirements
+* Requirements:
 
 Python , jupyter notebook.
 Numpy, Pandas, seaborn and sklearn library.
